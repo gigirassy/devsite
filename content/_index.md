@@ -1,56 +1,29 @@
 +++
-title = "Academic Paper Zola Theme"
+title = "Nune WebDev services"
 [extra]
-authors = [
-    {name = "Alexander Terenin", url = "https://avt.im/"},
-]
-venue = {name = "GitHub", url = "https://github.com/aterenin/academic-paper"}
-buttons = [
-    {name = "Paper", url = "https://aterenin.github.io/academic-paper"},
-    {name = "PDF", url = "https://aterenin.github.io/academic-paper"},
-    {name = "Code", url = "https://github.com/aterenin/academic-paper"},
-    {name = "Poster", url = "https://aterenin.github.io/academic-paper"},
-    {name = "Video", url = "https://aterenin.github.io/academic-paper"},
-]
-katex = true
+katex = false
 large_card = false
 favicon = false
 +++
 
-Welcome to the [Academic Paper](https://github.com/aterenin/academic-paper) Zola theme!
-This theme is designed for hosting a blog-post-style website to facilitate scientific communication of your academic paper.
+Welcome to my web development services!
 
-# Features
+I like to code. So I offer site development for at sliding scale, especially geared towards Transformers-related websites. >:]
 
-[Academic Paper](https://github.com/aterenin/academic-paper) is designed to be reasonably feature-complete. In particular, it supports:
+## Rules/Rates
+* My minimum per hour is $15, but you can pay whatever feels right after that.
+* I refuse to do development for bigots, transmisics[1], and anything of the sort. Basically, if you'd hate my Autigender therian acearo white-passing Native identity, you aren't welcome to hire me.
+### Important!
+* My only method of payment for this is me and my mom's shared PayPal account, and I do not have a bank account of my own. However, my email is linked to it as well. If this is out of your comfort zone, I don't suggest hiring me.
 
-* A header with title, author, publication venue, year, and optional buttons for the paper, PDF download link, code, poster, and video.
-* Syntax highlighting via Zola, with a minimal CSS-based color theme.
-* Math rendering via KaTeX, compatible with both client-side and server-side rendering when configured appropriately.
-* Figures via a `figure(alt='Image alt text',src='path/to/image.png')` Zola shortcode, with support for optional captions, subfigures with optional subcaptions, implemented in responsive manner via flexbox.
-* Markdown footnotes via Zola.
-* Twitter Summary Card, OpenGraph, and JSON-LD metadata, to ensure the web pages produced are search-engine-friendly, and provide social media websites with a banner image link they can display when the website is shared on social media, with an implementation very similar to [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag).
+## I'm experienced in...
+* Basic Wordpress (*not* theme development)
+* Docker
+* Static site generators, IE Zola.
+* HTML/CSS
+* Spreadsheets (CSV, Excel, etc.)
+* Basic accessibility, like contrast, alt text, etc.
 
-Let's demonstrate some of these: writing
-```tex
-$$
-\int_{\mathbb{R}} \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left(\frac{(x-\mu)^2}{-2\sigma^2}\right) \mathrm{d} x = 1.
-$$
-```
-in the Markdown file produces the output
-```
-$$
-\int_{\mathbb{R}} \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left(\frac{(x-\mu)^2}{-2\sigma^2}\right) \mathrm{d} x = 1.
-$$
-```
-This theme also supports footnotes, and will style the heading that immediately precedes them.[^author]
+I have experience with the grand majority of the general internet as I've been using computers for 3/4s of my life.
 
-# Design and maintainability
-
-[Academic Paper](https://github.com/aterenin/academic-paper) is [designed to last](https://jeffhuang.com/designed_to_last/), meaning that it follows a number of best practices to ensure the websites it produces continue to work correctly in the indefinite future with minimal to no maintenance.
-In particular, this theme uses no JavaScript or CSS dependencies, except optionally KaTeX for math.
-Zola, with its Rust-based code, focus on simplicity, and one-binary design, is the clear static site generator of choice for such a theme.
-
-# References
-
-[^author]: This theme is designed and built by Alexander Terenin.
+[1] I prefer to use the suffix -misic/-misia to refer to bigotry, as phobias are stigmatized conditions people struggle with.
