@@ -1,6 +1,9 @@
 +++
 title = "Nune WebDev services"
 [extra]
+authors = [
+    {name = "Nune", url = "https://blitzw.in/"},
+]
 katex = false
 large_card = false
 favicon = false
