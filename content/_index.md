@@ -38,4 +38,9 @@ I like to code. So I offer site development for at sliding scale, especially gea
 
 I have experience with the grand majority of the general internet as I've been using computers for three-fourths of my life.
 
+## Contact methods
+
+* TFW2005 (preferred): A board for Transformers stuff. Send me a message [here](https://www.tfw2005.com/boards/conversations/add?to=nune).
+* Email: My name, plus @imap, and the final suffix .fi added to the end.
+
 [1] I prefer to use the suffix -misic/-misia to refer to bigotry, as phobias are stigmatized conditions people struggle with.
